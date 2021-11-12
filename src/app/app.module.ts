@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { FromEventComponent } from './from-event/from-event.component';
 import { IntervalComponent } from './interval/interval.component';
 import { OfFromComponent } from './of-from/of-from.component';
+import { HotColdComponent } from './hot-cold/hot-cold.component';
 
 
 @NgModule({
@@ -14,6 +15,7 @@ import { OfFromComponent } from './of-from/of-from.component';
     FromEventComponent,
     IntervalComponent,
     OfFromComponent,
+    HotColdComponent,
     
   ],
   imports: [
